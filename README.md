@@ -50,7 +50,7 @@ npm run build
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/hero_banner.png" alt="Hero banner" width="900" />
+  <img src="assets/screenshots/showcase_collage.png" alt="Showcase collage" width="900" />
 </p>
 
 - Feature explainer: `assets/screenshots/feature_explainer.png`
@@ -58,7 +58,7 @@ npm run build
 - Sign-in mockup: `assets/screenshots/mockup_signin.png`
 - Premium mockup: `assets/screenshots/mockup_premium.png`
 - Showcase collage: `assets/screenshots/showcase_collage.png`
-- Social preview: `assets/screenshots/social_preview.png`
+- Social preview: `assets/screenshots/showcase_collage.png`
 - Logo gradient: `assets/screenshots/logo_gradient.png`
 
 View a browsable gallery/site at `/docs` (GitHub Pages from `docs/`).
