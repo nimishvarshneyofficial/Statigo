@@ -47,6 +47,22 @@ Build for production:
 npm run build
 ```
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/hero_banner.png" alt="Hero banner" width="900" />
+</p>
+
+- Feature explainer: `assets/screenshots/feature_explainer.png`
+- Mockup overview: `assets/screenshots/mockup_overview.png`
+- Sign-in mockup: `assets/screenshots/mockup_signin.png`
+- Premium mockup: `assets/screenshots/mockup_premium.png`
+- Showcase collage: `assets/screenshots/showcase_collage.png`
+- Social preview: `assets/screenshots/social_preview.png`
+- Logo gradient: `assets/screenshots/logo_gradient.png`
+
+View a browsable gallery/site at `/docs` (GitHub Pages from `docs/`).
+
 ## Notes
 
 - The file `data/database.json` is excluded from the repo via `.gitignore` for privacy. If you need to include a sample database, create a `data/sample-database.json` and update your server to fallback to it.
